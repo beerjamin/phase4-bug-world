@@ -16,10 +16,12 @@ Prof. Dr. Peter Baumann
 ## Progress for Phase 4
 
 ```
-Created README file
+* Created README file
 * Implemented instruction_drop.cpp,
 * Implemented instruction_flip.cpp,
 * Implemented instruction_mark.cpp,
 * Implemented instruction_turn.cpp,
 * Implemented instruction_unmark.cpp,
+* Wrote BugTest.cpp,
+* Wrote MarkerTest.cpp
 ```

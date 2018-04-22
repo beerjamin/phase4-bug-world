@@ -15,3 +15,5 @@ Implemented instruction_flip.cpp,
 Implemented instruction_mark.cpp,
 Implemented instruction_turn.cpp,
 Implemented instruction_unmark.cpp,
+Wrote BugTest.cpp,
+Wrote MarkerTest.cpp
